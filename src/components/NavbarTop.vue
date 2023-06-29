@@ -1,5 +1,6 @@
 <script setup>
-    import Logo from './Logo.vue'
+    import Logo from './LogoTop.vue'
+    import Sort from './SortTop.vue'
 </script>
 
 <template>
@@ -11,12 +12,9 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-                    <form class="d-flex">
-                        <select class="form-select" aria-label="Default select example">
-                            <option value="1" selected>Najtańsze</option>
-                            <option value="2">Najdroższe</option>
-                        </select>
-                    </form>
+                    <div class="d-flex">
+                        <Sort />   
+                    </div>
                 </div>
             </div>
         </nav>
