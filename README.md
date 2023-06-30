@@ -12,7 +12,7 @@ git clone https://github.com/typodgrafiki/crehler-zadanie-rekrutacyjne.git
 
 2. Navigate to the project directory:
 ```sh
-cd project
+cd crehler-zadanie-rekrutacyjne
 ```
 
 3. Install the dependencies using npm or yarn:
