@@ -1,4 +1,4 @@
-# Crehler - zadanie-rekrutacyjne
+# Crehler
 
 This project was created as part of a recruitment task for Crehler. It is built using Vue 3 and Vite. The project aims to retrieve data from an API and display a list of products along with their prices and the selected currency. It also provides the functionality to sort the products by price, from the most expensive to the cheapest, as well as a search feature to find products available in the list.
 
@@ -7,12 +7,12 @@ To install and run the project locally, please follow these steps:
 
 1. Clone the repository to your local machine:
 ```sh
-git clone https://github.com/typodgrafiki/crehler-zadanie-rekrutacyjne.git
+git clone https://github.com/typodgrafiki/crehler.git
 ```
 
 2. Navigate to the project directory:
 ```sh
-cd crehler-zadanie-rekrutacyjne
+cd crehler
 ```
 
 3. Install the dependencies using npm or yarn:
